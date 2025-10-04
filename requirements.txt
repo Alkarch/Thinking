@@ -1,0 +1,5 @@
+tkinter 
+pymupdf  # Для fitz
+requests
+pillow  # Для PIL
+fpdf  # Для экспорта в PDF
